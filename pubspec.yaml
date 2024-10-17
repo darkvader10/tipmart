@@ -1,0 +1,42 @@
+name: login
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  cloud_firestore: ^5.2.1
+  image_picker: ^1.1.2
+  intl: ^0.19.0
+  firebase_auth: ^5.1.4
+  firebase_core: ^3.3.0
+  firebase_storage: ^12.2.0
+  path: ^1.9.0
+  carousel_slider: ^5.0.0
+  fl_chart: ^0.69.0
+  http: ^1.2.2
+  path_provider: ^2.1.4
+  url_launcher: ^6.3.0
+  cached_network_image: ^3.4.1
+  webview_flutter: ^4.9.0
+  photo_view: ^0.15.0
+ 
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/assets/download.png

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68574960768",
+    "project_id": "tipmart-df090",
+    "storage_bucket": "tipmart-df090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68574960768:android:4df6b73aa924c8d3e81a65",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXUBCzk95OKvk8hJJAeUyBP_pX1FPAQlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
